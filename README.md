@@ -3,3 +3,5 @@ Predicción de precios de casas utilizando regresión lineal. Este proyecto apli
 
 House price prediction using linear regression.
 This project applies Machine Learning techniques to estimate house prices based on features such as size, number of rooms, and age. It includes exploratory data analysis, visualizations, and model evaluation.
+
+📎 [Ver notebook en Google Colab](https://colab.research.google.com/drive/tu-link)

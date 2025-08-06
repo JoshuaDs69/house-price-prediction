@@ -6,4 +6,4 @@ This project applies Machine Learning techniques to estimate house prices based 
 
 <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/beadee5c-d02c-4e9b-83ab-0ff3efd5a430" />
 
-📎 [Ver notebook en Google Colab]([https://colab.research.google.com/drive/tu-link](https://colab.research.google.com/drive/1I2cWlUkF9WQfnnsLlCsRu5xr-05kZ-SQ?usp=sharing))
+📎 [Ver notebook en Google Colab]([[https://colab.research.google.com/drive/tu-link](https://colab.research.google.com/drive/1I2cWlUkF9WQfnnsLlCsRu5xr-05kZ-SQ?usp=sharing)](https://colab.research.google.com/drive/1I2cWlUkF9WQfnnsLlCsRu5xr-05kZ-SQ?usp=sharing))
